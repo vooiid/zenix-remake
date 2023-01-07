@@ -1,1 +1,1 @@
-# zenix-remake
+This is project remake ZenixMC
